@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083161752224",
+    "project_id": "period-calendar-51033",
+    "storage_bucket": "period-calendar-51033.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083161752224:android:9811e4f3168f5602648fc5",
+        "android_client_info": {
+          "package_name": "com.example.periodcalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083161752224-31h9hf695ni5askqhmd8gsk3on309ial.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-eoel0jq3JoxMVs_5TL1mrJOd91T-Y2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083161752224-31h9hf695ni5askqhmd8gsk3on309ial.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
